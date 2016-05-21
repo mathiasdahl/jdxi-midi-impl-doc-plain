@@ -4,4 +4,6 @@ The official MIDI implementation documentation for the Roland JD-Xi comes as a P
 
 The first version only contains the first few sections as well as section 5. Parameter Address Map, which is what I am mostly interested in. I might add the other sections too, if I feel the urge.
 
+The official documentation can be found here: http://www.rolandus.com/support/by_product/jd-xi/owners_manuals/350585
+
 Enjoy!
