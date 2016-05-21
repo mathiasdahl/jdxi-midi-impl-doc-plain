@@ -6,6 +6,6 @@ The first version only contains the first few sections as well as section 5. Par
 
 Anyone is invited to contribute by forking this or sending me a pull request.
 
-The official documentation can be found here: http://www.rolandus.com/support/by_product/jd-xi/owners_manuals/350585
+The official documentation can be found here: http://cdn.roland.com/assets/media/pdf/JD-Xi_MIDI_Imple_e01_W.pdf
 
 Enjoy!
